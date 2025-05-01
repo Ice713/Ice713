@@ -18,9 +18,9 @@ $ whoami
 
 ## My magic spells ✨
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=68217A)
 <!-- Add or remove languages you use -->
 
 ## Check out my little game! 🎮
@@ -64,3 +64,5 @@ $ whoami
 
 <!-- Fun little quote -->
 > "Talk is cheap. Show me the code." - Linus Torvalds
+
+
