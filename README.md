@@ -54,7 +54,7 @@ $ whoami
 
 <!-- GitHub Stats snake animation -->
 <div align="center">
-  <img src="https://github.com/Ice713/Ice713/s.svg" alt="snake"/>
+    <img src="https://github.com/Ice713/Ice713/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <!-- Visitor count - makes visitors feel special -->
