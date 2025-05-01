@@ -1,4 +1,4 @@
-# Hello, world! 👋 I'm [Your Name]
+# Hello, world! 👋 I'm IC
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 ```
 $ whoami
-> just a code enthusiast who loves ☕ and 🍕
+> just a code enthusiast who loves ☕ and 🥐
 ```
 
 ## What I'm up to... 🎮
