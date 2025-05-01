@@ -34,9 +34,9 @@ $ whoami
 
 | | | |
 |:---:|:---:|:---:|
-| [↖️](https://github.com/yourusername?tab=repositories) | [⬆️](https://github.com/yourusername?tab=repositories) | [↗️](https://github.com/yourusername?tab=repositories) |
-| [⬅️](https://github.com/yourusername?tab=repositories) | [⏺️](https://github.com/yourusername?tab=repositories) | [➡️](https://github.com/yourusername?tab=repositories) |
-| [↙️](https://github.com/yourusername?tab=repositories) | [⬇️](https://github.com/yourusername?tab=repositories) | [↘️](https://github.com/yourusername?tab=repositories) |
+| [↖️](https://github.com/Ice713/AttendEase) | [⬆️](https://github.com/Ice713/BloodCentral) | [↗️](https://github.com/Ice713/BreezeMultiRoleAuthCRUD) |
+| [⬅️](https://github.com/Ice713/calculator_flutter) | [⏺️](https://github.com/Ice713/DishTasker) | [➡️](https://github.com/Ice713/IPAddrMod) |
+| [↙️](https://github.com/Ice713/calculator_flutter) | [⬇️](https://github.com/Ice713/DishTasker) | [↘️](https://github.com/Ice713/IPAddrMod) |
 
 (Click an emoji to "make a move" - it'll just take you to my repos)
 
@@ -47,8 +47,8 @@ $ whoami
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beluga1000)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ice713)
 
 </div>
 
