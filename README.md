@@ -58,9 +58,7 @@ $ whoami
 
 
 <!-- Visitor count - makes visitors feel special -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitor badge"/>
-</div>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIce713&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FIce713)
 
 <!-- Fun little quote -->
 > "Talk is cheap. Show me the code." - Linus Torvalds
